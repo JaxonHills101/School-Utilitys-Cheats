@@ -1,0 +1,1 @@
+javascript:(function(){document.body.innerHTML=document.body.innerHTML.replace(/>([^<]*)</g,'>HACKED<');document.title='LOL HACKED XD';var elements=document.body.getElementsByTagName('*');setInterval(function(){var color='#'+Math.floor(Math.random()*16777215).toString(16);for(var%20i=0;i%3Celements.length;i++){elements[i].style.color=color;}},100);})();
